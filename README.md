@@ -11,3 +11,8 @@ This repository holds my first practice files for learning web test automation.
 
 - Git
 - VS Code
+
+## What I learned on Day 5
+
+- I pushed my first repo to GitHub.
+- I wrote this README in Markdown.
