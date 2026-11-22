@@ -1,0 +1,5 @@
+System check: <your Windows name from Task 1> — <matches or does not match the Windows 11 or newer list> — checked on <date>
+
+| #   | Posting (title, company, date you read it) | German level                      | Years asked                      | Programming language                            | Test tools   | CI tool        | SQL asked   | Certificate asked          | Manual or automation                        |
+| --- | ------------------------------------------ | --------------------------------- | -------------------------------- | ----------------------------------------------- | ------------ | -------------- | ----------- | -------------------------- | ------------------------------------------- |
+| 1   | <job title, company, date>                 | <level as written in the posting> | <years of automation experience> | <Python, TypeScript, JavaScript, Java or other> | <tool names> | <CI tool name> | <yes or no> | <certificate name or none> | <mostly manual, mostly automation or mixed> |
