@@ -40,7 +40,7 @@ print("Test title:", test_title)
 print("Line total:", line_total)
 print("Cart count:", cart_count)
 print("Status message:", status_message)
-# 1. Positional: the order must match the parameters.
+# 1. Positional: the order must match the parameters
 build_test_title("Login", "Valid login shows products page")
 
 # 2. Keyword: the order does not matter, and the call is easier to read.
